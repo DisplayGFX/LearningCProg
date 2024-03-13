@@ -4,3 +4,6 @@
 !*.py
 !.gitignore
 .vscode
+fig03_02.c
+fig02_05.c
+GuessNumber.c

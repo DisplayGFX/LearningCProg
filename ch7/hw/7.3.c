@@ -17,7 +17,7 @@ int main(void){
 
     //d
 	nPtr = &numbers[0];
-	nPtr = &numbers;
+	nPtr = numbers;
 
     //e
 	for(int i = 0; i < SIZE; i++){
